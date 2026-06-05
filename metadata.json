@@ -1,0 +1,6 @@
+{
+  "name": "Viabrplay",
+  "description": "Media player and editor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
