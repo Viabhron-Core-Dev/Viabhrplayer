@@ -143,5 +143,5 @@
 ### Phase 11: Polish & Deactivation - COMPLETED
 *Target: Releasing the app.*
 * Hiding the floating Log Keeper FAB via the master switch by wrapping it in a compositional check for the LogKeeper state.
-* Fixed deprecated modifiers and icons.
+* Addressed missing KSP execution and AWT Headless exceptions in Unit Tests by setting system parameter via `build.gradle.kts`.
 * Final memory leak checks and performance profiling.

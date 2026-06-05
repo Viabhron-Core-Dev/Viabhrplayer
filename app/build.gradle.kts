@@ -59,7 +59,7 @@ android {
     unitTests {
       isIncludeAndroidResources = true
       all {
-        systemProperty("java.awt.headless", "true")
+        it.systemProperty("java.awt.headless", "true")
       }
     }
   }
