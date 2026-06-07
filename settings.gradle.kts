@@ -1,4 +1,5 @@
 pluginManagement {
+  System.setProperty("java.awt.headless", "true")
   repositories {
     google {
       content {
